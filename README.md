@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME 👋
+## Hello, I'm CHANGEME 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
@@ -49,7 +49,7 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 
 ## 🏅 Certifications
 
-![Security+](https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)  
+![Google Cybersecurity](https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Network+](https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=white)  
 ![A+](https://img.shields.io/badge/-A%2B-4D4D4D?style=for-the-badge&logo=comptia&logoColor=white)  
 ![CDSA](https://img.shields.io/badge/-CDSA-006400?style=for-the-badge&logoColor=white)  
