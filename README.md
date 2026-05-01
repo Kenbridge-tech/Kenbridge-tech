@@ -1,4 +1,4 @@
-## Hello, I'm CHANGEME 👋
+## Hello, I'm Kenneth 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
